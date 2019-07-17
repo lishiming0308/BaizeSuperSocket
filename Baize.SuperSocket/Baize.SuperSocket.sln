@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Baize.SuperSocket", "Baize.SuperSocket\Baize.SuperSocket.csproj", "{DD7F2E2F-29F3-40F2-88D9-081E7E3B361D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaizeSuperSocketTest", "BaizeSuperSocketTest\BaizeSuperSocketTest.csproj", "{495826C1-77EB-4CF0-A874-DC9D51D924C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppSocket", "ConsoleAppSocket\ConsoleAppSocket.csproj", "{5013A8EB-C41A-438B-89B5-8E014765CB04}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Baize.IPlugin", "Baize.IPlugin\Baize.IPlugin.csproj", "{6A07D76F-1AB3-4C01-AAE4-CF2F57EAD9F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Driver.WriteModbus", "Driver.WriteModbus\Driver.WriteModbus.csproj", "{B0CA2715-CF4F-44AC-8C68-8C856BB14825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverWriteModbusTest", "DriverWriteModbusTest\DriverWriteModbusTest.csproj", "{3E929A65-8801-4E9C-BB33-6440FD78D98D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7F2E2F-29F3-40F2-88D9-081E7E3B361D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7F2E2F-29F3-40F2-88D9-081E7E3B361D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7F2E2F-29F3-40F2-88D9-081E7E3B361D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7F2E2F-29F3-40F2-88D9-081E7E3B361D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495826C1-77EB-4CF0-A874-DC9D51D924C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495826C1-77EB-4CF0-A874-DC9D51D924C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495826C1-77EB-4CF0-A874-DC9D51D924C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495826C1-77EB-4CF0-A874-DC9D51D924C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5013A8EB-C41A-438B-89B5-8E014765CB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5013A8EB-C41A-438B-89B5-8E014765CB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5013A8EB-C41A-438B-89B5-8E014765CB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5013A8EB-C41A-438B-89B5-8E014765CB04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A07D76F-1AB3-4C01-AAE4-CF2F57EAD9F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A07D76F-1AB3-4C01-AAE4-CF2F57EAD9F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A07D76F-1AB3-4C01-AAE4-CF2F57EAD9F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A07D76F-1AB3-4C01-AAE4-CF2F57EAD9F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0CA2715-CF4F-44AC-8C68-8C856BB14825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CA2715-CF4F-44AC-8C68-8C856BB14825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CA2715-CF4F-44AC-8C68-8C856BB14825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CA2715-CF4F-44AC-8C68-8C856BB14825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E929A65-8801-4E9C-BB33-6440FD78D98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E929A65-8801-4E9C-BB33-6440FD78D98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E929A65-8801-4E9C-BB33-6440FD78D98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E929A65-8801-4E9C-BB33-6440FD78D98D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF838ECE-B707-4B84-8DDF-33F839374375}
+	EndGlobalSection
+EndGlobal
